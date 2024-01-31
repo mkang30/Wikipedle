@@ -1,0 +1,7 @@
+bs4
+numpy
+torch
+fastapi
+pytest
+sentence_transformers
+wikipedia-api
